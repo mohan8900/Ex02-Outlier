@@ -175,7 +175,10 @@ ATASET FOR WEIGHT_HEIGHT_CSV
 ![21](https://user-images.githubusercontent.com/95160497/190847731-041ab7c3-7047-434f-ad9a-d7f81736d34d.png)
 
 ### DATASET SHAPE(WEIGHT_HEIGHT)
+![23](https://user-images.githubusercontent.com/95160497/190847870-7d1fcfca-591e-45b2-902a-c296f6b7ba18.png)
+
 ### DATASET BOXPLOT AFTER REMOVING OUTLIERS USING IQR METHOD(WEIGHT_HEIGHT)
+![24](https://user-images.githubusercontent.com/95160497/190847873-7a1f36ba-4504-4b81-ab5b-1d158f67354a.png)
 
 
 # RESULT
